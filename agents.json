@@ -1,0 +1,162 @@
+{
+  "agents": [
+    {
+      "id": 1,
+      "name": "Claude Code",
+      "description": "Anthropic's agentic coding tool that lives in your terminal, understands codebases, handles git workflows and multi-file editing through natural language.",
+      "url": "https://github.com/anthropics/claude-code",
+      "repository": "https://github.com/anthropics/claude-code",
+      "type": "commercial",
+      "language": "TypeScript/Node.js",
+      "features": ["Git integration", "Multi-file editing", "Codebase understanding", "GitHub/GitLab support", "WebSearch", "WebFetch"]
+    },
+    {
+      "id": 2,
+      "name": "Aider",
+      "description": "AI pair programming tool that runs in your terminal, directly edits code in local git repositories with sensible commit messages.",
+      "url": "https://aider.chat",
+      "repository": "https://github.com/Aider-AI/aider",
+      "type": "open-source",
+      "language": "Python",
+      "features": ["Multi-file editing", "Git integration", "Sensible commits", "Claude 3.5 Sonnet support", "Codebase context awareness"]
+    },
+    {
+      "id": 3,
+      "name": "Gemini CLI",
+      "description": "Google's open-source AI agent bringing Gemini directly into terminal for coding, problem-solving, and task management with file manipulation.",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "repository": "https://github.com/google-gemini/gemini-cli",
+      "type": "open-source",
+      "language": "TypeScript",
+      "features": ["Code understanding", "File manipulation", "Command execution", "Dynamic troubleshooting", "System integration"]
+    },
+    {
+      "id": 4,
+      "name": "GitHub Copilot CLI",
+      "description": "Brings GitHub Copilot directly to your command line for intelligent code assistance, debugging, and GitHub repository interactions.",
+      "url": "https://github.com/features/copilot/cli",
+      "repository": "https://github.com/features/copilot/cli",
+      "type": "commercial",
+      "language": "Proprietary",
+      "features": ["Code suggestions", "Debugging assistance", "GitHub integration", "Interactive mode", "Programmatic mode"]
+    },
+    {
+      "id": 5,
+      "name": "Goose",
+      "description": "Open-source extensible AI agent from Block that goes beyond code suggestions - builds projects, debugs, orchestrates complex coding workflows.",
+      "url": "https://block.github.io/goose",
+      "repository": "https://github.com/block/goose",
+      "type": "open-source",
+      "language": "Python",
+      "features": ["Project building", "Code migrations", "Workflow orchestration", "Model Context Protocol support", "Extensible architecture"]
+    },
+    {
+      "id": 6,
+      "name": "Continue",
+      "description": "Open-source coding agent with TUI mode for interactive development and headless mode for background automation tasks.",
+      "url": "https://www.continue.dev",
+      "repository": "https://github.com/continuedev/continue",
+      "type": "open-source",
+      "language": "TypeScript",
+      "features": ["TUI mode", "Async agents", "CI/CD integration", "Granular permissions", "Multiple model support"]
+    },
+    {
+      "id": 7,
+      "name": "Cursor CLI",
+      "description": "Command-line version of Cursor AI editor, enables AI coding workflows to run from terminal without GUI.",
+      "url": "https://cursor.com/en/cli",
+      "repository": "https://cursor.com/en/cli",
+      "type": "commercial",
+      "language": "TypeScript",
+      "features": ["Cursor Agent", "Headless execution", "Model flexibility", "Beta availability", "Terminal-native workflows"]
+    },
+    {
+      "id": 8,
+      "name": "Mentat",
+      "description": "AI coding assistant that coordinates edits across multiple files from command line with automatic context awareness via RAG.",
+      "url": "https://mentat.ai",
+      "repository": "https://github.com/AbanteAI/mentat",
+      "type": "open-source",
+      "language": "Python",
+      "features": ["Multi-file editing", "RAG-based context", "Project-wide awareness", "Interactive workflow", "Git integration"]
+    },
+    {
+      "id": 9,
+      "name": "Cody CLI",
+      "description": "Command-line version of Sourcegraph's Cody AI assistant with deep code graph integration for enhanced context.",
+      "url": "https://github.com/sourcegraph/cody",
+      "repository": "https://github.com/sourcegraph/cody",
+      "type": "open-source",
+      "language": "TypeScript",
+      "features": ["Code graph integration", "Developer chat", "Code completions", "Custom prompts", "Extensive context"]
+    },
+    {
+      "id": 10,
+      "name": "Sweep AI",
+      "description": "AI junior developer that transforms bug reports and feature requests into code changes and automatically generates pull requests.",
+      "url": "https://github.com/sweepai/sweep",
+      "repository": "https://github.com/sweepai/sweep",
+      "type": "open-source",
+      "language": "Python",
+      "features": ["PR generation", "Multi-file changes", "GitHub integration", "JetBrains IDE support", "Autonomous issue resolution"]
+    },
+    {
+      "id": 11,
+      "name": "GPT Engineer",
+      "description": "CLI platform for code generation from text prompts, generates complete functional codebases in any programming language.",
+      "url": "https://github.com/AntonOsika/gpt-engineer",
+      "repository": "https://github.com/AntonOsika/gpt-engineer",
+      "type": "open-source",
+      "language": "Python",
+      "features": ["Codebase generation", "Multi-language support", "Model flexibility", "Image input support", "Interactive refinement"]
+    },
+    {
+      "id": 12,
+      "name": "Qodo Command",
+      "description": "CLI for building, managing and running AI agents for SDLC automation, testing, and code review tasks.",
+      "url": "https://www.qodo.ai",
+      "repository": "https://github.com/qodo-ai/command",
+      "type": "open-source",
+      "language": "Python",
+      "features": ["Test generation", "Code review agents", "Web UI mode", "CI/CD integration", "SDLC automation"]
+    },
+    {
+      "id": 13,
+      "name": "OpenCode",
+      "description": "AI coding assistant built in Go with terminal user interface for efficient terminal-based development tasks.",
+      "url": "https://github.com/opencode-ai/opencode",
+      "repository": "https://github.com/opencode-ai/opencode",
+      "type": "open-source",
+      "language": "Go",
+      "features": ["Terminal UI", "Multi-model support", "Fast execution", "Interactive mode", "Code understanding"]
+    },
+    {
+      "id": 14,
+      "name": "Open Interpreter",
+      "description": "Natural language interface that lets LLMs execute code locally with full system access for practical file and task manipulation.",
+      "url": "https://github.com/openinterpreter/open-interpreter",
+      "repository": "https://github.com/openinterpreter/open-interpreter",
+      "type": "open-source",
+      "language": "Python",
+      "features": ["Local code execution", "Multi-language support", "System access", "File manipulation", "Task automation"]
+    }
+  ],
+  "metadata": {
+    "total_agents": 14,
+    "last_updated": "2025-11-04",
+    "description": "A curated list of CLI coding agents - AI tools that understand code and can make edits, generate files, and manage coding workflows from the terminal.",
+    "type_breakdown": {
+      "open_source": 10,
+      "commercial": 4
+    },
+    "key_capabilities": [
+      "Multi-file editing",
+      "Git integration",
+      "Codebase understanding",
+      "Autonomous code generation",
+      "PR automation",
+      "Repository management",
+      "Terminal-native workflows"
+    ]
+  }
+}
