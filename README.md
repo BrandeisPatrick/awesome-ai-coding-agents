@@ -14,6 +14,8 @@ CLI coding agents are AI-powered tools that run directly in your terminal and ca
 ## Agents
 
 ### 1. Claude Code
+![Claude Code](https://avatars.githubusercontent.com/u/95014511?s=200&v=4)
+
 **Type:** Commercial | **Language:** TypeScript/Node.js
 **Repository:** https://github.com/anthropics/claude-code
 
@@ -29,6 +31,8 @@ Anthropic's agentic coding tool that lives in your terminal, understands codebas
 ---
 
 ### 2. Aider
+![Aider](https://aider.chat/assets/logo-aider-200x200.png)
+
 **Type:** Open Source | **Language:** Python
 **Repository:** https://github.com/Aider-AI/aider
 
@@ -44,6 +48,8 @@ AI pair programming tool that runs in your terminal and directly edits code in l
 ---
 
 ### 3. Gemini CLI
+![Gemini CLI](https://avatars.githubusercontent.com/u/169615288?s=200&v=4)
+
 **Type:** Open Source | **Language:** TypeScript
 **Repository:** https://github.com/google-gemini/gemini-cli
 
@@ -59,6 +65,8 @@ Google's open-source AI agent bringing Gemini directly into the terminal for cod
 ---
 
 ### 4. GitHub Copilot CLI
+![GitHub Copilot](https://avatars.githubusercontent.com/u/1?s=200&v=4)
+
 **Type:** Commercial | **Language:** Proprietary
 **Repository:** https://github.com/features/copilot/cli
 
@@ -74,6 +82,8 @@ Brings GitHub Copilot directly to your command line with intelligent code assist
 ---
 
 ### 5. Goose
+![Goose](https://avatars.githubusercontent.com/u/13964696?s=200&v=4)
+
 **Type:** Open Source | **Language:** Python
 **Repository:** https://github.com/block/goose
 
@@ -89,6 +99,8 @@ Open-source extensible AI agent from Block that goes beyond code suggestions - b
 ---
 
 ### 6. Continue
+![Continue](https://avatars.githubusercontent.com/u/128779407?s=200&v=4)
+
 **Type:** Open Source | **Language:** TypeScript
 **Repository:** https://github.com/continuedev/continue
 
@@ -104,6 +116,8 @@ Open-source coding agent with TUI (terminal user interface) mode for interactive
 ---
 
 ### 7. Cursor CLI
+![Cursor](https://www.cursor.com/favicon.ico)
+
 **Type:** Commercial | **Language:** TypeScript
 **Repository:** https://cursor.com/en/cli
 
@@ -119,6 +133,8 @@ Command-line version of the Cursor AI editor, enabling AI-powered coding workflo
 ---
 
 ### 8. Mentat
+![Mentat](https://avatars.githubusercontent.com/u/100988286?s=200&v=4)
+
 **Type:** Open Source | **Language:** Python
 **Repository:** https://github.com/AbanteAI/mentat
 
@@ -134,6 +150,8 @@ AI coding assistant that coordinates intelligent edits across multiple files fro
 ---
 
 ### 9. Cody CLI
+![Cody](https://avatars.githubusercontent.com/u/3588669?s=200&v=4)
+
 **Type:** Open Source | **Language:** TypeScript
 **Repository:** https://github.com/sourcegraph/cody
 
@@ -149,6 +167,8 @@ Command-line version of Sourcegraph's Cody AI assistant with deep code graph int
 ---
 
 ### 10. Sweep AI
+![Sweep AI](https://avatars.githubusercontent.com/u/120141270?s=200&v=4)
+
 **Type:** Open Source | **Language:** Python
 **Repository:** https://github.com/sweepai/sweep
 
@@ -164,6 +184,8 @@ AI junior developer that autonomously transforms bug reports and feature request
 ---
 
 ### 11. GPT Engineer
+![GPT Engineer](https://avatars.githubusercontent.com/u/126282468?s=200&v=4)
+
 **Type:** Open Source | **Language:** Python
 **Repository:** https://github.com/AntonOsika/gpt-engineer
 
@@ -179,6 +201,8 @@ CLI platform for code generation from text prompts, capable of generating comple
 ---
 
 ### 12. Qodo Command
+![Qodo](https://avatars.githubusercontent.com/u/84088690?s=200&v=4)
+
 **Type:** Open Source | **Language:** Python
 **Repository:** https://github.com/qodo-ai/command
 
@@ -194,6 +218,8 @@ CLI for building, managing, and running AI agents for SDLC (Software Development
 ---
 
 ### 13. OpenCode
+![OpenCode](https://avatars.githubusercontent.com/u/160154348?s=200&v=4)
+
 **Type:** Open Source | **Language:** Go
 **Repository:** https://github.com/opencode-ai/opencode
 
@@ -209,6 +235,8 @@ AI coding assistant built in Go with a responsive terminal user interface for ef
 ---
 
 ### 14. Open Interpreter
+![Open Interpreter](https://avatars.githubusercontent.com/u/177722038?s=200&v=4)
+
 **Type:** Open Source | **Language:** Python
 **Repository:** https://github.com/openinterpreter/open-interpreter
 
