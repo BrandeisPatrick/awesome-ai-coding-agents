@@ -14,7 +14,7 @@ CLI coding agents are AI-powered tools that run directly in your terminal and ca
 ## Agents
 
 ### 1. Claude Code
-<img src="https://cdn.brandfetch.io/idW5s392j1/theme/dark/logo.svg" alt="Claude Code" width="180" height="180">
+<img src="https://cdn.brandfetch.io/idW5s392j1/theme/dark/logo.svg" alt="Claude Code" width="120" height="120">
 
 **Type:** Commercial | **Language:** TypeScript/Node.js
 **Repository:** https://github.com/anthropics/claude-code
@@ -31,7 +31,7 @@ Anthropic's agentic coding tool that lives in your terminal, understands codebas
 ---
 
 ### 2. Aider
-<img src="https://aider.chat/assets/logo.svg" alt="Aider" width="180" height="180">
+<img src="https://aider.chat/assets/logo.svg" alt="Aider" width="120" height="120">
 
 **Type:** Open Source | **Language:** Python
 **Repository:** https://github.com/Aider-AI/aider
@@ -48,7 +48,7 @@ AI pair programming tool that runs in your terminal and directly edits code in l
 ---
 
 ### 3. Gemini CLI
-<img src="https://geminicli.com/_astro/icon.Bo4M5sF3.png" alt="Gemini CLI" width="180" height="180">
+<img src="https://geminicli.com/_astro/icon.Bo4M5sF3.png" alt="Gemini CLI" width="120" height="120">
 
 **Type:** Open Source | **Language:** TypeScript
 **Repository:** https://github.com/google-gemini/gemini-cli
@@ -65,7 +65,7 @@ Google's open-source AI agent bringing Gemini directly into the terminal for cod
 ---
 
 ### 4. GitHub Copilot CLI
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/GitHub_Copilot_logo.svg" alt="GitHub Copilot" width="180" height="180">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/GitHub_Copilot_logo.svg" alt="GitHub Copilot" width="120" height="120">
 
 **Type:** Commercial | **Language:** Proprietary
 **Repository:** https://github.com/features/copilot/cli
@@ -82,7 +82,7 @@ Brings GitHub Copilot directly to your command line with intelligent code assist
 ---
 
 ### 5. Goose
-<img src="https://block.github.io/goose/img/goose-logo-black.png" alt="Goose" width="180" height="180">
+<img src="https://block.github.io/goose/img/goose-logo-black.png" alt="Goose" width="120" height="120">
 
 **Type:** Open Source | **Language:** Python
 **Repository:** https://github.com/block/goose
@@ -99,7 +99,7 @@ Open-source extensible AI agent from Block that goes beyond code suggestions - b
 ---
 
 ### 6. Continue
-<img src="https://github.com/continuedev/continue/raw/main/media/readme.png" alt="Continue" width="180" height="180">
+<img src="https://github.com/continuedev/continue/raw/main/media/readme.png" alt="Continue" width="120" height="120">
 
 **Type:** Open Source | **Language:** TypeScript
 **Repository:** https://github.com/continuedev/continue
@@ -116,7 +116,7 @@ Open-source coding agent with TUI (terminal user interface) mode for interactive
 ---
 
 ### 7. Cursor CLI
-<img src="https://cdn.sanity.io/images/2hv88549/production/50ec40c5002d95ac2924c1392efdc6ac5b14e059-1600x1000.svg" alt="Cursor" width="180" height="180">
+<img src="https://cdn.sanity.io/images/2hv88549/production/50ec40c5002d95ac2924c1392efdc6ac5b14e059-1600x1000.svg" alt="Cursor" width="120" height="120">
 
 **Type:** Commercial | **Language:** TypeScript
 **Repository:** https://cursor.com/en/cli
@@ -133,7 +133,7 @@ Command-line version of the Cursor AI editor, enabling AI-powered coding workflo
 ---
 
 ### 8. Mentat
-<img src="https://via.placeholder.com/200x200?text=Mentat" alt="Mentat" width="180" height="180">
+<img src="https://via.placeholder.com/200x200?text=Mentat" alt="Mentat" width="120" height="120">
 
 **Type:** Open Source | **Language:** Python
 **Repository:** https://github.com/AbanteAI/mentat
@@ -150,7 +150,7 @@ AI coding assistant that coordinates intelligent edits across multiple files fro
 ---
 
 ### 9. Cody CLI
-<img src="https://cdn.prod.website-files.com/673f71b4ebbb99190437de75/6770554dc3303771c81966be_cody-icon.svg" alt="Cody" width="180" height="180">
+<img src="https://cdn.prod.website-files.com/673f71b4ebbb99190437de75/6770554dc3303771c81966be_cody-icon.svg" alt="Cody" width="120" height="120">
 
 **Type:** Open Source | **Language:** TypeScript
 **Repository:** https://github.com/sourcegraph/cody
@@ -167,7 +167,7 @@ Command-line version of Sourcegraph's Cody AI assistant with deep code graph int
 ---
 
 ### 10. Sweep AI
-<img src="https://cdn.brandfetch.io/idSm3_pRyi/w/192/h/192/theme/dark/logo.png" alt="Sweep AI" width="180" height="180">
+<img src="https://cdn.brandfetch.io/idSm3_pRyi/w/192/h/192/theme/dark/logo.png" alt="Sweep AI" width="120" height="120">
 
 **Type:** Open Source | **Language:** Python
 **Repository:** https://github.com/sweepai/sweep
@@ -184,7 +184,7 @@ AI junior developer that autonomously transforms bug reports and feature request
 ---
 
 ### 11. GPT Engineer
-<img src="https://lovable.dev/icon.svg?9e0c9b5bb1bae062" alt="GPT Engineer" width="180" height="180">
+<img src="https://lovable.dev/icon.svg?9e0c9b5bb1bae062" alt="GPT Engineer" width="120" height="120">
 
 **Type:** Open Source | **Language:** Python
 **Repository:** https://github.com/AntonOsika/gpt-engineer
@@ -201,7 +201,7 @@ CLI platform for code generation from text prompts, capable of generating comple
 ---
 
 ### 12. Qodo Command
-<img src="https://www.qodo.ai/wp-content/uploads/2025/03/qodo-logo.svg" alt="Qodo" width="180" height="180">
+<img src="https://www.qodo.ai/wp-content/uploads/2025/03/qodo-logo.svg" alt="Qodo" width="120" height="120">
 
 **Type:** Open Source | **Language:** Python
 **Repository:** https://github.com/qodo-ai/command
@@ -218,7 +218,7 @@ CLI for building, managing, and running AI agents for SDLC (Software Development
 ---
 
 ### 13. OpenCode
-<img src="https://raw.githubusercontent.com/sst/opencode/dev/packages/console/app/src/asset/logo-ornate-dark.svg" alt="OpenCode" width="180" height="180">
+<img src="https://raw.githubusercontent.com/sst/opencode/dev/packages/console/app/src/asset/logo-ornate-dark.svg" alt="OpenCode" width="120" height="120">
 
 **Type:** Open Source | **Language:** Go
 **Repository:** https://github.com/opencode-ai/opencode
@@ -235,7 +235,7 @@ AI coding assistant built in Go with a responsive terminal user interface for ef
 ---
 
 ### 14. Open Interpreter
-<img src="https://www.openinterpreter.com/interpreter.png" alt="Open Interpreter" width="180" height="180">
+<img src="https://www.openinterpreter.com/interpreter.png" alt="Open Interpreter" width="120" height="120">
 
 **Type:** Open Source | **Language:** Python
 **Repository:** https://github.com/openinterpreter/open-interpreter
