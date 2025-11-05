@@ -14,7 +14,7 @@ CLI coding agents are AI-powered tools that run directly in your terminal and ca
 ## Agents
 
 ### 1. Claude Code
-<img src="https://cdn.brandfetch.io/idW5s392j1/theme/dark/logo.svg" alt="Claude Code" width="120" height="120">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/claude.svg" alt="Claude Code" width="120" height="120">
 
 **Type:** Commercial | **Language:** TypeScript/Node.js
 **Repository:** https://github.com/anthropics/claude-code
