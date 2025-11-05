@@ -150,7 +150,7 @@ AI coding assistant that coordinates intelligent edits across multiple files fro
 ---
 
 ### 9. Cody CLI
-<img src="https://cdn.prod.website-files.com/673f71b4ebbb99190437de75/6770554dc3303771c81966be_cody-icon.svg" alt="Cody" width="120" height="120">
+<img src="https://storage.googleapis.com/sourcegraph-assets/docs/images/cody/command-line-blue.svg" alt="Cody" width="120" height="120">
 
 **Type:** Open Source | **Language:** TypeScript
 **Repository:** https://github.com/sourcegraph/cody
@@ -184,7 +184,7 @@ AI junior developer that autonomously transforms bug reports and feature request
 ---
 
 ### 11. GPT Engineer
-<img src="https://lovable.dev/icon.svg?9e0c9b5bb1bae062" alt="GPT Engineer" width="120" height="120">
+<img src="https://lovable.dev/img/logo/logoblack.svg" alt="GPT Engineer" width="120" height="120">
 
 **Type:** Open Source | **Language:** Python
 **Repository:** https://github.com/AntonOsika/gpt-engineer
