@@ -14,7 +14,7 @@ CLI coding agents are AI-powered tools that run directly in your terminal and ca
 ## Agents
 
 ### 1. Claude Code
-![Claude Code](https://avatars.githubusercontent.com/u/95014511?s=200&v=4)
+![Claude Code](https://cdn.brandfetch.io/idW5s392j1/theme/dark/logo.svg)
 
 **Type:** Commercial | **Language:** TypeScript/Node.js
 **Repository:** https://github.com/anthropics/claude-code
@@ -31,7 +31,7 @@ Anthropic's agentic coding tool that lives in your terminal, understands codebas
 ---
 
 ### 2. Aider
-![Aider](https://aider.chat/assets/logo-aider-200x200.png)
+![Aider](https://aider.chat/assets/logo.svg)
 
 **Type:** Open Source | **Language:** Python
 **Repository:** https://github.com/Aider-AI/aider
@@ -48,7 +48,7 @@ AI pair programming tool that runs in your terminal and directly edits code in l
 ---
 
 ### 3. Gemini CLI
-![Gemini CLI](https://avatars.githubusercontent.com/u/169615288?s=200&v=4)
+![Gemini CLI](https://geminicli.com/_astro/icon.Bo4M5sF3.png)
 
 **Type:** Open Source | **Language:** TypeScript
 **Repository:** https://github.com/google-gemini/gemini-cli
@@ -65,7 +65,7 @@ Google's open-source AI agent bringing Gemini directly into the terminal for cod
 ---
 
 ### 4. GitHub Copilot CLI
-![GitHub Copilot](https://avatars.githubusercontent.com/u/1?s=200&v=4)
+![GitHub Copilot](https://upload.wikimedia.org/wikipedia/commons/8/8a/GitHub_Copilot_logo.svg)
 
 **Type:** Commercial | **Language:** Proprietary
 **Repository:** https://github.com/features/copilot/cli
@@ -82,7 +82,7 @@ Brings GitHub Copilot directly to your command line with intelligent code assist
 ---
 
 ### 5. Goose
-![Goose](https://avatars.githubusercontent.com/u/13964696?s=200&v=4)
+![Goose](https://block.github.io/goose/img/goose-logo-black.png)
 
 **Type:** Open Source | **Language:** Python
 **Repository:** https://github.com/block/goose
@@ -99,7 +99,7 @@ Open-source extensible AI agent from Block that goes beyond code suggestions - b
 ---
 
 ### 6. Continue
-![Continue](https://avatars.githubusercontent.com/u/128779407?s=200&v=4)
+![Continue](https://github.com/continuedev/continue/raw/main/media/readme.png)
 
 **Type:** Open Source | **Language:** TypeScript
 **Repository:** https://github.com/continuedev/continue
@@ -116,7 +116,7 @@ Open-source coding agent with TUI (terminal user interface) mode for interactive
 ---
 
 ### 7. Cursor CLI
-![Cursor](https://www.cursor.com/favicon.ico)
+![Cursor](https://cdn.sanity.io/images/2hv88549/production/50ec40c5002d95ac2924c1392efdc6ac5b14e059-1600x1000.svg)
 
 **Type:** Commercial | **Language:** TypeScript
 **Repository:** https://cursor.com/en/cli
@@ -133,7 +133,7 @@ Command-line version of the Cursor AI editor, enabling AI-powered coding workflo
 ---
 
 ### 8. Mentat
-![Mentat](https://avatars.githubusercontent.com/u/100988286?s=200&v=4)
+![Mentat](https://via.placeholder.com/200x200?text=Mentat)
 
 **Type:** Open Source | **Language:** Python
 **Repository:** https://github.com/AbanteAI/mentat
@@ -150,7 +150,7 @@ AI coding assistant that coordinates intelligent edits across multiple files fro
 ---
 
 ### 9. Cody CLI
-![Cody](https://avatars.githubusercontent.com/u/3588669?s=200&v=4)
+![Cody](https://cdn.prod.website-files.com/673f71b4ebbb99190437de75/6770554dc3303771c81966be_cody-icon.svg)
 
 **Type:** Open Source | **Language:** TypeScript
 **Repository:** https://github.com/sourcegraph/cody
@@ -167,7 +167,7 @@ Command-line version of Sourcegraph's Cody AI assistant with deep code graph int
 ---
 
 ### 10. Sweep AI
-![Sweep AI](https://avatars.githubusercontent.com/u/120141270?s=200&v=4)
+![Sweep AI](https://cdn.brandfetch.io/idSm3_pRyi/w/192/h/192/theme/dark/logo.png)
 
 **Type:** Open Source | **Language:** Python
 **Repository:** https://github.com/sweepai/sweep
@@ -184,7 +184,7 @@ AI junior developer that autonomously transforms bug reports and feature request
 ---
 
 ### 11. GPT Engineer
-![GPT Engineer](https://avatars.githubusercontent.com/u/126282468?s=200&v=4)
+![GPT Engineer](https://lovable.dev/icon.svg?9e0c9b5bb1bae062)
 
 **Type:** Open Source | **Language:** Python
 **Repository:** https://github.com/AntonOsika/gpt-engineer
@@ -201,7 +201,7 @@ CLI platform for code generation from text prompts, capable of generating comple
 ---
 
 ### 12. Qodo Command
-![Qodo](https://avatars.githubusercontent.com/u/84088690?s=200&v=4)
+![Qodo](https://www.qodo.ai/wp-content/uploads/2025/03/qodo-logo.svg)
 
 **Type:** Open Source | **Language:** Python
 **Repository:** https://github.com/qodo-ai/command
@@ -218,7 +218,7 @@ CLI for building, managing, and running AI agents for SDLC (Software Development
 ---
 
 ### 13. OpenCode
-![OpenCode](https://avatars.githubusercontent.com/u/160154348?s=200&v=4)
+![OpenCode](https://raw.githubusercontent.com/sst/opencode/dev/packages/console/app/src/asset/logo-ornate-dark.svg)
 
 **Type:** Open Source | **Language:** Go
 **Repository:** https://github.com/opencode-ai/opencode
@@ -235,7 +235,7 @@ AI coding assistant built in Go with a responsive terminal user interface for ef
 ---
 
 ### 14. Open Interpreter
-![Open Interpreter](https://avatars.githubusercontent.com/u/177722038?s=200&v=4)
+![Open Interpreter](https://www.openinterpreter.com/interpreter.png)
 
 **Type:** Open Source | **Language:** Python
 **Repository:** https://github.com/openinterpreter/open-interpreter
